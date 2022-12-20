@@ -27,3 +27,8 @@ GPA: 3.5
 - Web Developer -- 2019-2021
   - Implemented OAuth login process to support Social Login.
   - Added web analytics
+## Skills
+
+- HTML
+- JavaSript
+- Css
