@@ -22,3 +22,8 @@ GPA: 3.5
   - Develops and maintains libraries for supporting research.
   - Liases with clients.
 
+### The Normal Brand
+
+- Web Developer -- 2019-2021
+  - Implemented OAuth login process to support Social Login.
+  - Added web analytics
